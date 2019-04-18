@@ -1,8 +1,11 @@
 Waffle Spring Security 4 Simple Sample
 -------------------------------
-
-* URL
-    *  https://github.com/Waffle/waffle
+* Waffle
+    * https://github.com/Waffle/waffle
+    * native Windows Authentication Framework
+    * SSO
+    * NTLM, Kerberos
+    
 
 * Spring 4.3.16
 * Spring security 4.3.22
