@@ -8,7 +8,7 @@ Waffle Spring Security 4 Simple Sample
     
 
 * Spring 4.3.16
-* Spring security 4.3.22
+* Spring security 4.2.12
 * maven
 * Intellij
 -------------------------------
